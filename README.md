@@ -21,5 +21,3 @@ This project aims to develop an IoT-based smart locking system using facial reco
   - GitHub (for version control and publication)
   - Some sort of editing software for the video
   
-## Project Repository
-TODO: Add repository link here.
