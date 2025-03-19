@@ -17,7 +17,7 @@ This project aims to develop an IoT-based smart locking system using facial reco
 - **Software & Cloud Services:**
   - Python (for programming logic)
   - Azure Cognitive Services (for facial recognition processing)
-  - MQTT (for IoT communication)   <!-- honestly not sure if i need this yet but ill put it here for now -->
+  - MQTT (for IoT communication) 
   - GitHub (for version control and publication)
   - Some sort of editing software for the video
   
